@@ -1,0 +1,33 @@
+body {
+  background: #6e6c6c4f;
+
+}
+
+section img {
+  width: 200px;
+  /* height: 150px; */
+}
+
+a {
+  text-decoration: none;
+  
+}
+
+a:visited{
+  text-decoration: none;
+  
+}
+
+#contatos img {
+  width: 20px;
+  position: relative;
+  vertical-align: middle;
+  
+}
+
+.img p{
+  display: inline;
+  
+  
+}
+
